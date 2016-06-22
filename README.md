@@ -13,4 +13,4 @@ and [cleverbot.io API](https://cleverbot.io/ "Cleverbot").
 ### EXECUTION ###
 Do perform the *SETUP* step before executing.
 
-`# nodejs bot.js`
+`# node bot.js`
