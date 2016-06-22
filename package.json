@@ -1,0 +1,28 @@
+{
+  "name": "CleverFBChatBot",
+  "version": "1.0.0",
+  "description": "A Facebook Chat Bot using Cleverbot.io for user profiles",
+  "engines": {
+    "node": "4.2.3"
+  },
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Facebook",
+    "Chatbot",
+    "Cleverbot",
+    "User"
+  ],
+  "author": "Shaswata Dutta(reedknight)",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/reedknight/Facebook-Profile-Chat-Bot.git"
+  }
+  "dependencies": {
+    "cleverbot.io": "1.0.4",
+    "facebook-chat-api": "1.1.0"
+  }
+}
